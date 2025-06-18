@@ -19,15 +19,25 @@
 ```bash
 npx dev-starter create my-app
 2. Example prompts you will see:
-bash
-Copy
-Edit
+
+Let's create a new project called: my-app
+
+? Which framework would you like to use? (Use arrow keys)
+❯ React
+  Vue
+  Svelte
+
 ✔ Which framework would you like to use? React
 ✔ Would you like to install and configure Tailwind CSS? Yes
 3. Start your project:
-bash
-Copy
-Edit
+
+✔ Tailwind CSS installed and configured!
+✔ Dependencies installed!
+
+🚀 Your project is ready!
+
+To get started, run:
+
 cd my-app
 npm run dev
 💻 Features
