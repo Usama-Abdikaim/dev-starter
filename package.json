@@ -1,0 +1,31 @@
+{
+   "name": "dev-starter",
+  "version": "1.0.0",
+  "description": "A CLI tool to scaffold frontend apps with Vite and optional Tailwind CSS.",
+  "type": "module",
+  "main": "index.js",
+  "bin": {
+    "dev-starter": "./index.js"
+  },
+  "scripts": {
+    "test": "echo \"No test specified\" && exit 0"
+  },
+  "keywords": [
+    "cli",
+    "vite",
+    "frontend",
+    "tailwindcss",
+    "starter",
+    "scaffold",
+    "dev-starter"
+  ],
+  "author": "osama_abdi",
+  "license": "MIT",
+  "dependencies": {
+    "chalk": "^5.4.1",
+    "commander": "^14.0.0",
+    "inquirer": "^12.6.3",
+    "ora": "^8.2.0",
+    "shelljs": "^0.10.0"
+  }
+}
