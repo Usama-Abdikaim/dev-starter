@@ -20,7 +20,7 @@
 npx dev-starter create my-app
 2. Example prompts you will see:
 
-Let's create a new project called: my-app
+Lets create a new project called: my-app
 
 ? Which framework would you like to use? (Use arrow keys)
 ❯ React
