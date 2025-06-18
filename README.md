@@ -1,30 +1,30 @@
 # 🚀 dev-starter
 
-**dev-starter** waa CLI (Command Line Interface) fudud oo kuu oggolaanaya inaad si dhaqso leh u abuurto **frontend projects** (React, Vue, ama Svelte) oo ay ku jiraan **Tailwind CSS** haddii aad rabto.
+**dev-starter** is a simple CLI (Command Line Interface) tool that allows you to quickly create **frontend projects** (React, Vue, or Svelte) with **Tailwind CSS** included if you want.
 
-## 📦 Waa maxay?
+## 📦 What is it?
 
-`dev-starter` waa open source CLI tool kuu oggolaanaya inaad:
-- Sameyso mashruuc cusub oo Vite ah.
-- Doorato framework (React, Vue, Svelte).
-- Ku dari karto Tailwind CSS si otomaatig ah.
-- Ku rakibi dependencies si deg deg ah.
+`dev-starter` is an open source CLI tool that lets you:
+- Create a new Vite project.
+- Choose a framework (React, Vue, Svelte).
+- Automatically add Tailwind CSS.
+- Quickly install dependencies.
 
 ---
 
-## 🧑‍💻 Sida Loo Isticmaalo
+## 🧑‍💻 How to Use
 
-### 1. Ku rakib `dev-starter` adiga oo isticmaalaya `npx` (install la’aan):
+### 1. Run `dev-starter` using `npx` (no install needed):
 
 ```bash
 npx dev-starter create my-app
-2. Tusaale ah waxa aad arki doonto:
+2. Example prompts you will see:
 bash
 Copy
 Edit
 ✔ Which framework would you like to use? React
 ✔ Would you like to install and configure Tailwind CSS? Yes
-3. Bilaabida mashruuca:
+3. Start your project:
 bash
 Copy
 Edit
@@ -35,28 +35,28 @@ npm run dev
 
 ✅ React, Vue, Svelte templates (TypeScript-based)
 
-✅ Tailwind CSS auto-setup
+✅ Automatic Tailwind CSS setup
 
 ✅ Fast setup with interactive prompts
 
 ✅ One command to get started
 
 🌍 Open Source
-Tool-kan waa open source! Waxaad:
+This tool is open source! You can:
 
-Ku tabaruci kartaa code ka (contribute).
+Contribute code.
 
-Fork garayn kartaa mashruuca.
+Fork the project.
 
-Isticmaali kartaa gudaha ama mashruucyadaada.
+Use it in your projects freely.
 
-GitHub: https://github.com/osma-ashkir/dev-starter ← samee repo haddii uusan jirin
+GitHub: https://github.com/osma-ashkir/dev-starter ← Create the repo if it doesn’t exist
 
 📜 License
 MIT License
 
-📬 La xiriir
-Haddii aad leedahay su'aalo ama fikrad dib u dhis ah, xor ayaad u tahay inaad ila soo xiriirto:
+📬 Contact
+If you have any questions or feedback, feel free to reach out:
 
 Author: Usama Abdulkarim
-Email: osma.ashkir@example.com (badal email-ka hadduu jiro)
+Email: cabqari44@gmail.com
