@@ -50,7 +50,7 @@ Fork the project.
 
 Use it in your projects freely.
 
-GitHub: https://github.com/Usama-Abdikaim/dev-starter.git
+GitHub: https://github.com/Usama-Abdikaim/dev-starter
 
 📜 License
 MIT License
